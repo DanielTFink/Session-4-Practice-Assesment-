@@ -1,4 +1,4 @@
-Class: Bottle
+Class: Dog
 
 Attributes:
 breed_name (string)

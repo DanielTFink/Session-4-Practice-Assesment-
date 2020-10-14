@@ -10,3 +10,4 @@ Methods:
 lose_weight (modifies the weight attribute)
 visit_vet (modifies the last_vet_visit)
 cross_breed (modifies the breed_name attribute)
+get_groomed (modifies the color attribute)

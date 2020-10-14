@@ -1,0 +1,12 @@
+Class: Bottle
+
+Attributes:
+breed_name (string)
+weight (integer/float)
+color (string)
+last_vet_visit (datetime)
+
+Methods:
+lose_weight (modifies the weight attribute)
+visit_vet (modifies the last_vet_visit)
+cross_breed (modifies the breed_name attribute)
